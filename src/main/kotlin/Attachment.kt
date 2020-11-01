@@ -63,7 +63,7 @@ data class Video(
         val canAdd: Boolean = true,
         val isPrivate: Boolean = false,
         val accessKey: String = "",
-        val processing: Boolean = true,
+        val processing: Boolean = true
         val isFavorite: Boolean = false,
         val canComment: Boolean = true,
         val canLike: Boolean = true,
